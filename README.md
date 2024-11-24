@@ -1,5 +1,5 @@
 >[!NOTE]
->I forked this from https://github.com/PeaceLoveAndLight/TheNightBeforeChristmas_DEMO_MODE
+>I forked this from https://github.com/PeaceLoveAndLight/TheNightBeforeChristmas_DEMO_MODE and then just commented out a bunch of palletes I didn't want.
 
 # TheNightBeforeChristmas_DEMO_MODE
 
