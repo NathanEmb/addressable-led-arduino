@@ -1,4 +1,4 @@
->[!Info]
+>[!NOTE]
 >I forked this from https://github.com/PeaceLoveAndLight/TheNightBeforeChristmas_DEMO_MODE
 
 # TheNightBeforeChristmas_DEMO_MODE
