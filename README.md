@@ -1,3 +1,6 @@
+>[!Info]
+>I forked this from https://github.com/PeaceLoveAndLight/TheNightBeforeChristmas_DEMO_MODE
+
 # TheNightBeforeChristmas_DEMO_MODE
 
 A Tree or string light display for 2020 using FastLED.
